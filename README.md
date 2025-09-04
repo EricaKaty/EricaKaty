@@ -1,6 +1,6 @@
 # 👋 Olá, eu me chamo Érica
 
-💻 Desenvolvedora em andamento e apaixonada por tecnologia web.  
+💻 Desenvolvedora em constante aprendizado e apaixonada por tecnologia web.  
 🎯 Curiosa sobre front-end,HTML e JavaScript.  
 
 ---
