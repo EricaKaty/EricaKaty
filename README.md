@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Érica]
+# 👋 Olá, eu me chamo Érica
 
 💻 Desenvolvedora em andamento e apaixonada por tecnologia web.  
 🎯 Curiosa sobre front-end,HTML e JavaScript.  
