@@ -25,12 +25,6 @@
 
 ---
 
-## 🌱 Atualmente aprendendo
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
----
-
 ## 📊 Estatísticas do GitHub
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)  
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight)
